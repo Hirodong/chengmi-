@@ -24,3 +24,4 @@
 
 
 ####请直接打开`WNXHuntForCity.xcworkspace`运行工程![打开](http://ww4.sinaimg.cn/mw690/0068uRu1gw1eu7cyp74l7j307k06eaac.jpg)而不要打开`WNXHuntForCity.xcodeproj`
+# chengmi-
